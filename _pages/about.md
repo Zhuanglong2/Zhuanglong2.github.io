@@ -31,7 +31,7 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 </span>
 
 # 📝 Publications 
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Nuo Li.  
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\**, and Nuo Li.  
 *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.*  
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2025.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/11112643) | [[💻 Code]](https://github.com/Zhuanglong2/RC-ROSNet)
