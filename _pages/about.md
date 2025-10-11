@@ -55,7 +55,7 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.  
 *Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*[[Paper]](https://ieeexplore.ieee.org/document/11192687) [[Code]](https://github.com/Zhuanglong2/Mamba-RODNet) 
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 
@@ -67,13 +67,13 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\**, Jianhua Wang, Qi An, Kai Xiao, and Anqi Wang.
+🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\**, Jianhua Wang, Qi An, Kai Xiao, and Anqi Wang.  
 *Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.*[[Paper]](https://ieeexplore.ieee.org/document/10353950)  
 <i>IEEE Sensors Journal</i>, 2024.  
 
 ---
 
-🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Qi An, Jianhua Wang, Kai Xiao, and Anqi Wang.
+🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Qi An, Jianhua Wang, Kai Xiao, and Anqi Wang.  
 *T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.*[[Paper]](https://ieeexplore.ieee.org/document/9989400) [[Code]](https://github.com/Zhuanglong2/T-RODNet)  
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2023.  
 
