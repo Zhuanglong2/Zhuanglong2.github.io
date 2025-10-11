@@ -4,50 +4,37 @@ on:
   workflow_dispatch:   # 手动运行触发
   page_build: 
   schedule:
-    - cron:  '0 8 * * *'
+    - cron: '0 8 * * *'  # 每天 UTC 08:00 运行
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false  # 避免冲突
+    - name: Install Reqs
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y python3-setuptools
+    - name: Run Crawler and Push JSON
+      run: |
+        # 运行爬虫生成 JSON
+        cd ./google_scholar_crawler
+        pip3 install --user -r requirements.txt
+        python3 main.py
 
-      - name: Install Reqs
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-setuptools python3-pip
+        # 创建目标文件夹
+        mkdir -p ../../google-scholar-stats
+        cp *.json ../../google-scholar-stats/
 
-      - name: Run crawler
-        run: |
-          cd ./google_scholar_crawler
-          pip3 install --upgrade pip
-          pip3 install -r requirements.txt
-          python3 main.py
-
-      - name: Copy JSON files
-        run: |
-          mkdir -p ./google-scholar-stats
-          shopt -s nullglob
-          files=(./google_scholar_crawler/results/*.json)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No JSON files found, skipping copy."
-          else
-            cp "${files[@]}" ./google-scholar-stats/
-          fi
-
-      - name: Commit & Push if changes
-        run: |
-          cd ./google-scholar-stats
-          git init
-          git config --local user.name "${GITHUB_ACTOR}"
-          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add *.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Updated Citation Data"
-            export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-            git push "${remote_repo}" HEAD:google-scholar-stats --force
-          fi
-        env: 
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        # 提交到 main 分支
+        cd ../../google-scholar-stats
+        git init
+        git config --local user.name "${GITHUB_ACTOR}"
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git add *.json
+        git commit -m "Updated Citation Data"
+        git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main --force
+      env: 
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
