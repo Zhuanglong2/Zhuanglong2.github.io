@@ -53,13 +53,11 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 *4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.*[[Paper]](https://ieeexplore.ieee.org/document/10950073) [[Code]](https://github.com/Zhuanglong2/4DRC-OC)
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 
-
 ---
 
 🔹 **<u>Long Zhuang</u>**,  Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.
 *Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*[[Paper]](https://ieeexplore.ieee.org/document/11192687) [[Code]](https://github.com/Zhuanglong2/Mamba-RODNet) 
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
-
 
 ---
 
@@ -67,13 +65,11 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 *Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*[[Paper]](https://ieeexplore.ieee.org/document/10608068) [[Code]](https://github.com/Zhuanglong2/Condformer)  
 <i>IEEE Sensors Journal</i>, 2024.  
 
-
 ---
 
 🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\**, Jianhua Wang, Qi An, Kai Xiao, and Anqi Wang.
 *Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.*[[Paper]](https://ieeexplore.ieee.org/document/10353950)  
 <i>IEEE Sensors Journal</i>, 2024.  
-
 
 ---
 
@@ -81,21 +77,17 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 *T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.*[[Paper]](https://ieeexplore.ieee.org/document/9989400) [[Code]](https://github.com/Zhuanglong2/T-RODNet)  
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2023.  
 
-
 ---
 
 🔹 Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, and **<u>Long Zhuang*</u>**, et al.  
 *CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.*[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef)  
 <i>Measurement Science and Technology</i>, 2024.  
 
-
 ---
 
 🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Jianhua Wang, Qi An.  
 *Design of dual-band filtering patch antenna slot coupling feed.*[[Paper]](https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD)  
 <i>International Journal of Microwave and Wireless Technologies</i>, 2024.  
-
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
