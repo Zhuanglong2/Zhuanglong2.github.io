@@ -38,7 +38,7 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, et al.  
+🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang, Hao Jiang, Anqi Wang, and Zhixiang Huang.  
 *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.*  
 <i>IEEE Transactions on Intelligent Vehicles</i>, 2024.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/10356738)
