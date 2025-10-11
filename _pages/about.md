@@ -19,6 +19,8 @@ I am currently in the second year of my doctoral studies at the Advanced Navigat
 
 My research focuses on improving environmental sensing and navigation-based localization in complex environments using millimeter-wave radar, primarily through deep learning and multi-sensor fusion techniques.<a href='https://scholar.google.com/citations?user=uzRvavcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+<a href='https://scholar.google.cz/citations?user=uzRvavcAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzhenglianqing%2Fzhenglianqing.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 # 🔥 News
 I am currently looking for a supervisor in the field of autonomous driving to pursue a CSC joint PhD program, where I can contribute my expertise in perception, localization, and multi-sensor fusion for intelligent vehicles.
 
