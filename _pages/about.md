@@ -30,10 +30,9 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 </span>
 
 # 📝 Publications 
+- **<u>Long Zhuang</u>**, et al. *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.* IEEE Transactions on Circuits and Systems for Video Technology, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11112643) | [[Code]](https://github.com/Zhuanglong2/RC-ROSNet)
 
-- **Long Zhuang**, et al. *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.* IEEE Transactions on Circuits and Systems for Video Technology, 2025. [📄 Paper](https://ieeexplore.ieee.org/document/11112643) | [💻 Code](https://github.com/Zhuanglong2/RC-ROSNet)
-
-- **Long Zhuang**, et al. *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.* IEEE Transactions on Intelligent Vehicles, 2024. [📄 Paper](https://ieeexplore.ieee.org/document/10356738)
+- **Long Zhuang**, et al. *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.* IEEE Transactions on Intelligent Vehicles, 2024. [Paper](https://ieeexplore.ieee.org/document/10356738)
 
 - **Long Zhuang**, et al. *A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.* IEEE Transactions on Instrumentation and Measurement, 2024. <span style="color:#B19CD9;">*(ESI Highly Cited Paper)*</span> [📄 Paper](https://ieeexplore.ieee.org/document/10379118)
 
