@@ -17,7 +17,9 @@ redirect_from:
 
 I am currently in the second year of my doctoral studies at the Advanced Navigation Research Institute of Southeast University, under the supervision of Associate Professor Yiqing Yao.
 
-My research focuses on improving environmental sensing and navigation-based localization in complex environments using millimeter-wave radar, primarily through deep learning and multi-sensor fusion techniques.<a href='https://scholar.google.com/citations?user=uzRvavcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on improving environmental sensing and navigation-based localization in complex environments using millimeter-wave radar, primarily through deep learning and multi-sensor fusion techniques.
+
+<a href='https://scholar.google.com/citations?user=uzRvavcAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=uzRvavcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <a href='https://scholar.google.cz/citations?user=uzRvavcAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzhenglianqing%2Fzhenglianqing.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
