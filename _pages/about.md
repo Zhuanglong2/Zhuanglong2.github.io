@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-## About Me
+# 😄 About Me
 
 I am currently in the second year of my doctoral studies at the Advanced Navigation Research Institute of Southeast University, under the supervision of Associate Professor Yiqing Yao.
 
