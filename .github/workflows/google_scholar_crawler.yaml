@@ -1,43 +1,29 @@
 name: Get Citation Data
 
-# 触发方式：手动 / Pages 构建 / 定时
 on: 
-  workflow_dispatch:   # 手动运行触发
-  page_build:
-  schedule:
-    - cron: '0 8 * * *'  # 每天 UTC 08:00 运行
+ page_build: 
+ schedule:
+  - cron:  '0 8 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. 检出仓库代码
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false  # 避免冲突
-
-      # 2. 安装依赖
-      - name: Install Reqs
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-setuptools
-          pip3 install --user -r ./google_scholar_crawler/requirements.txt
-
-      # 3. 运行爬虫并 push JSON
-      - name: Run Crawler and Push JSON
-        run: |
-          cd ./google_scholar_crawler
-          python3 main.py
-
-          # 配置 git 用户
-          git config --local user.name "${GITHUB_ACTOR}"
-          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-
-          # 添加并提交 JSON 文件
-          git add results/*.json
-          git commit -m "Updated Citation Data" || echo "No changes to commit"
-
-          # 推送到 main 分支
-          git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
-        env: 
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    - uses: actions/checkout@v2
+    - name: Install Reqs
+      run: |
+        sudo apt-get install python3-setuptools
+    - name: Run
+      run: |
+        cd ./google_scholar_crawler
+        pip3 install -r requirements.txt
+        python3 main.py
+        cd ./results
+        git init
+        git config --local user.name "${GITHUB_ACTOR}"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git add *.json
+        git commit -m "Updated Citation Data"
+        git push "${remote_repo}" HEAD:google-scholar-stats --force
+      env: 
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
