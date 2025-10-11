@@ -32,73 +32,69 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 # 📝 Publications 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Nuo Li.  
-*RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.*  
+*RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.*[[Paper]](https://ieeexplore.ieee.org/document/11112643) [[Code]](https://github.com/Zhuanglong2/RC-ROSNet)  
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2025.  
-[[Paper]](https://ieeexplore.ieee.org/document/11112643) | [[Code]](https://github.com/Zhuanglong2/RC-ROSNet)
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\*, Hao Jiang, Anqi Wang, and Zhixiang Huang.  
-*LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.*  
+*LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.*[[Paper]](https://ieeexplore.ieee.org/document/10356738)  
 <i>IEEE Transactions on Intelligent Vehicles</i>, 2024.  
-[[Paper]](https://ieeexplore.ieee.org/document/10356738)
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Kai Luo, and Zhibo Yang\*.  
-*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.*  
+*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.*<span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span>  [[Paper]](https://ieeexplore.ieee.org/document/10379118)
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024.  
-<span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span>  
-[[Paper]](https://ieeexplore.ieee.org/document/10379118)
-
+ 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Nuo Li, Zijian Wang, Lingtong Zhong, Zijing Zhang, and Tao Zhang.  
-*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.*  
+*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.* [[Paper]](https://ieeexplore.ieee.org/document/10950073) [[Code]](https://github.com/Zhuanglong2/4DRC-OC)
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
-[[Paper]](https://ieeexplore.ieee.org/document/10950073) | [[Code]](https://github.com/Zhuanglong2/4DRC-OC)
+
 
 ---
 
 🔹 **<u>Long Zhuang</u>**,  Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.
-*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*  
+*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.* [[Paper]](https://ieeexplore.ieee.org/document/11192687) [[Code]](https://github.com/Zhuanglong2/Mamba-RODNet) 
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
-[[Paper]](https://ieeexplore.ieee.org/document/11192687) | [[Code]](https://github.com/Zhuanglong2/Mamba-RODNet)
+
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\**, Meng Qiu, Anqi Wang, and Zhixiang Huang.
-*Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*  
+*Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*[[Paper]](https://ieeexplore.ieee.org/document/10608068) [[Code]](https://github.com/Zhuanglong2/Condformer)  
 <i>IEEE Sensors Journal</i>, 2024.  
-[[Paper]](https://ieeexplore.ieee.org/document/10608068) | [[Code]](https://github.com/Zhuanglong2/Condformer)
+
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\**, Jianhua Wang, Qi An, Kai Xiao, and Anqi Wang.
-*Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.*  
+*Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.*[[Paper]](https://ieeexplore.ieee.org/document/10353950)  
 <i>IEEE Sensors Journal</i>, 2024.  
-[[Paper]](https://ieeexplore.ieee.org/document/10353950)
+
 
 ---
 
 🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Qi An, Jianhua Wang, Kai Xiao, and Anqi Wang.
-*T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.*  
+*T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.*[[Paper]](https://ieeexplore.ieee.org/document/9989400) [[Code]](https://github.com/Zhuanglong2/T-RODNet)  
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2023.  
-[[Paper]](https://ieeexplore.ieee.org/document/9989400) | [[Code]](https://github.com/Zhuanglong2/T-RODNet)
+
 
 ---
 
 🔹 Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, and **<u>Long Zhuang*</u>**, et al.  
-*CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.*  
+*CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.*[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef)  
 <i>Measurement Science and Technology</i>, 2024.  
-[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef)
+
 
 ---
 
 🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Jianhua Wang, Qi An.  
-*Design of dual-band filtering patch antenna slot coupling feed.*  
+*Design of dual-band filtering patch antenna slot coupling feed.*[[Paper]](https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD)  
 <i>International Journal of Microwave and Wireless Technologies</i>, 2024.  
-[[Paper]](https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD)
+
 
 
 # 🎖 Honors and Awards
