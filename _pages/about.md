@@ -13,7 +13,7 @@ redirect_from:
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google_scholar_crawler/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 I am currently in the second year of my doctoral studies at the Advanced Navigation Research Institute of Southeast University, under the supervision of Associate Professor Yiqing Yao.
 
