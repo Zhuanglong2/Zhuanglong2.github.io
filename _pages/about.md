@@ -44,20 +44,20 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 ---
 
 🔹 **<u>Long Zhuang</u>**, Kai Luo, and Zhibo Yang\*.  
-*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.* <span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span>  [[Paper]](https://ieeexplore.ieee.org/document/10379118)
+*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.*<span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span> [[Paper]](https://ieeexplore.ieee.org/document/10379118)
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024.  
  
 ---
 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Nuo Li, Zijian Wang, Lingtong Zhong, Zijing Zhang, and Tao Zhang.  
-*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.* [[Paper]](https://ieeexplore.ieee.org/document/10950073) [[Code]](https://github.com/Zhuanglong2/4DRC-OC)
+*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.*[[Paper]](https://ieeexplore.ieee.org/document/10950073) [[Code]](https://github.com/Zhuanglong2/4DRC-OC)
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 
 
 ---
 
 🔹 **<u>Long Zhuang</u>**,  Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.
-*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.* [[Paper]](https://ieeexplore.ieee.org/document/11192687) [[Code]](https://github.com/Zhuanglong2/Mamba-RODNet) 
+*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*[[Paper]](https://ieeexplore.ieee.org/document/11192687) [[Code]](https://github.com/Zhuanglong2/Mamba-RODNet) 
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 
 
