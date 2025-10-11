@@ -17,7 +17,7 @@ redirect_from:
 
 # 😄 About Me
 
-I am currently in <span style="color:#A78BFA; font-weight:bold;">the second year of my doctoral studies</span> at the Advanced Navigation Research Institute of <span style="color:#A78BFA; font-weight:bold;">Southeast University</span>, under the supervision of Associate Professor Yiqing Yao.
+I am currently in <span style="color:#A78BFA; font-weight:bold;">the second year of my doctoral studies at Southeast University</span>, under the supervision of Associate Professor Yiqing Yao.
 
 My research focuses on improving <span font-weight:bold;">environmental sensing</span> and <span font-weight:bold;">navigation-based localization</span> in complex environments using millimeter-wave radar, primarily through <span font-weight:bold;">deep learning</span> and <span font-weight:bold;">multi-sensor fusion</span> techniques.  <a href='https://scholar.google.com/citations?user=uzRvavcAAAAJ'>
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
