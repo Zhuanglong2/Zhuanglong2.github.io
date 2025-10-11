@@ -61,7 +61,7 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\*, Meng Qiu, Anqi Wang, and Zhixiang Huang.
+🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\*, Meng Qiu, Anqi Wang, and Zhixiang Huang.  
 *Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*[[Paper]](https://ieeexplore.ieee.org/document/10608068) [[Code]](https://github.com/Zhuanglong2/Condformer)  
 <i>IEEE Sensors Journal</i>, 2024.  
 
