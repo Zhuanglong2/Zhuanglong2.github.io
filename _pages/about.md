@@ -30,9 +30,6 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 </span>
 
 # 📝 Publications 
-
-<div style="line-height:1.6; font-size: 16px;">
-
 - **<u>Long Zhuang</u>**, et al. *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.* <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2025. [📄 Paper](https://ieeexplore.ieee.org/document/11112643) | [💻 Code](https://github.com/Zhuanglong2/RC-ROSNet)
 
 - **<u>Long Zhuang</u>**, et al. *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.* <i>IEEE Transactions on Intelligent Vehicles</i>, 2024. [📄 Paper](https://ieeexplore.ieee.org/document/10356738)
