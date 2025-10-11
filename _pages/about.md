@@ -55,7 +55,7 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 ---
 
-🔹 **<u>Long Zhuang</u>**,  Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.
 *Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*[[Paper]](https://ieeexplore.ieee.org/document/11192687) [[Code]](https://github.com/Zhuanglong2/Mamba-RODNet) 
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 
