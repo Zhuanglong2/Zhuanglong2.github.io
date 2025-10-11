@@ -60,35 +60,35 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, et al.  
+🔹 **<u>Long Zhuang</u>**,  Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.
 *Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*  
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/11192687) | [[💻 Code]](https://github.com/Zhuanglong2/Mamba-RODNet)
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, et al.  
+🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\**, Meng Qiu, Anqi Wang, and Zhixiang Huang.
 *Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*  
 <i>IEEE Sensors Journal</i>, 2024.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/10608068) | [[💻 Code]](https://github.com/Zhuanglong2/Condformer)
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, et al.  
+🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\**, Jianhua Wang, Qi An, Kai Xiao, and Anqi Wang.
 *Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.*  
 <i>IEEE Sensors Journal</i>, 2024.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/10353950)
 
 ---
 
-🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, et al.  
+🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Qi An, Jianhua Wang, Kai Xiao, and Anqi Wang.
 *T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.*  
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2023.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/9989400) | [[💻 Code]](https://github.com/Zhuanglong2/T-RODNet)
 
 ---
 
-🔹 Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, **<u>Long Zhuang*</u>**, et al.  
+🔹 Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, and **<u>Long Zhuang*</u>**, et al.  
 *CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.*  
 <i>Measurement Science and Technology</i>, 2024.  
 [[📄 Paper]](https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef)
