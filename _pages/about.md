@@ -44,7 +44,7 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 ---
 
 🔹 **<u>Long Zhuang</u>**, Kai Luo, and Zhibo Yang\*.  
-*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.*<span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span>  [[Paper]](https://ieeexplore.ieee.org/document/10379118)
+*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.* <span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span>  [[Paper]](https://ieeexplore.ieee.org/document/10379118)
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024.  
  
 ---
