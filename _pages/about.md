@@ -30,23 +30,46 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 </span>
 
 # 📝 Publications 
-- **<u>Long Zhuang</u>**, et al. *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.* <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2025. [📄 Paper](https://ieeexplore.ieee.org/document/11112643) | [💻 Code](https://github.com/Zhuanglong2/RC-ROSNet)
-
-- **<u>Long Zhuang</u>**, et al. *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.* <i>IEEE Transactions on Intelligent Vehicles</i>, 2024. [📄 Paper](https://ieeexplore.ieee.org/document/10356738)
-
-- **<u>Long Zhuang</u>**, et al. *A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.* <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024. <span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span> [📄 Paper](https://ieeexplore.ieee.org/document/10379118)
-
-
-🔹 **<u>Long Zhuang</u>**, et al.  *4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.* <i>IEEE Robotics and Automation Letters</i>, 2025. [📄 Paper](https://ieeexplore.ieee.org/document/10950073) | [💻 Code](https://github.com/Zhuanglong2/4DRC-OC)
+🔹 **<u>Long Zhuang</u>**, et al.  
+*RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.*  
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2025.  
+[📄 Paper](https://ieeexplore.ieee.org/document/11112643) | [💻 Code](https://github.com/Zhuanglong2/RC-ROSNet)
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, et al. *Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.* <i>IEEE Robotics and Automation Letters</i>, 2025. [📄 Paper](https://ieeexplore.ieee.org/document/11192687) | [💻 Code](https://github.com/Zhuanglong2/Mamba-RODNet)
+🔹 **<u>Long Zhuang</u>**, et al.  
+*LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.*  
+<i>IEEE Transactions on Intelligent Vehicles</i>, 2024.  
+[📄 Paper](https://ieeexplore.ieee.org/document/10356738)
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, et al. *Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*  
-<i>IEEE Sensors Journal</i>, 2024. [📄 Paper](https://ieeexplore.ieee.org/document/10608068) | [💻 Code](https://github.com/Zhuanglong2/Condformer)
+🔹 **<u>Long Zhuang</u>**, et al.  
+*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.*  
+<i>IEEE Transactions on Instrumentation and Measurement</i>, 2024.  
+<span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span>  
+[📄 Paper](https://ieeexplore.ieee.org/document/10379118)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.*  
+<i>IEEE Robotics and Automation Letters</i>, 2025.  
+[📄 Paper](https://ieeexplore.ieee.org/document/10950073) | [💻 Code](https://github.com/Zhuanglong2/4DRC-OC)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*  
+<i>IEEE Robotics and Automation Letters</i>, 2025.  
+[📄 Paper](https://ieeexplore.ieee.org/document/11192687) | [💻 Code](https://github.com/Zhuanglong2/Mamba-RODNet)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*  
+<i>IEEE Sensors Journal</i>, 2024.  
+[📄 Paper](https://ieeexplore.ieee.org/document/10608068) | [💻 Code](https://github.com/Zhuanglong2/Condformer)
 
 ---
 
@@ -75,8 +98,6 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 *Design of dual-band filtering patch antenna slot coupling feed.*  
 <i>International Journal of Microwave and Wireless Technologies</i>, 2024.  
 [📄 Paper](https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD)
-
-</div>
 
 
 # 🎖 Honors and Awards
