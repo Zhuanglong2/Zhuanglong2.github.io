@@ -15,8 +15,7 @@ I am currently in the second year of my doctoral studies at the Advanced Navigat
 My research focuses on enhancing perception and localization in complex environments using millimeter-wave radar, primarily leveraging deep learning and multi-sensor fusion techniques.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I am currently looking for a supervisor in the field of autonomous driving to pursue a CSC joint PhD program, where I can contribute my expertise in perception, localization, and multi-sensor fusion for intelligent vehicles.
 
 # 📝 Publications 
 
