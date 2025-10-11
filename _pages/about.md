@@ -26,7 +26,9 @@ My research focuses on improving <span style="color:#A78BFA; font-weight:bold;">
 
 
 # 🔥 News
-# <span style="color:#B19CD9;"> I am currently looking for a supervisor in the field of autonomous driving to pursue a CSC joint PhD program, where I can contribute my expertise in perception, localization, and multi-sensor fusion for intelligent vehicles.</span>
+<span style="color:#B19CD9; font-weight:bold;">
+I am currently seeking a supervisor in autonomous driving for a CSC joint PhD program, where I aim to contribute my expertise in perception, localization, and multi-sensor fusion for intelligent vehicles.
+</span>
 
 # 📝 Publications 
 
