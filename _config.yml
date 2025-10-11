@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Long Zhuang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "A Ph.D candidate at Southeast University "
+repository               : "Zhuanglong2/Zhuanglong2.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Long Zhuang"
   avatar           : "images/zl.jpg"
-  bio              : "Southeast University"
+  bio              : "Work hard, play hard"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uzRvavcAAAAJ"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "longzhuang21@126.com"
+  researchgate     : "https://www.researchgate.net/profile/Long-Zhuang-2"
   uri              :
   bitbucket        :
   codepen          :
