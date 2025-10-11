@@ -53,7 +53,7 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, et al.  
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Nuo Li, Zijian Wang, Lingtong Zhong, Zijing Zhang, and Tao Zhang.  
 *4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.*  
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/10950073) | [[💻 Code]](https://github.com/Zhuanglong2/4DRC-OC)
