@@ -32,6 +32,39 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 # 📝 Publications 
 
+# 📚 Publications
+
+- **Long Zhuang**, et al. *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.* IEEE Transactions on Circuits and Systems for Video Technology, 2025.  
+  [📄 Paper](#) | [💻 Code](#)
+
+- **Long Zhuang**, et al. *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.* IEEE Transactions on Intelligent Vehicles, 2024.  
+  [📄 Paper](#) | [💻 Code](#)
+
+- **Long Zhuang**, et al. *A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.* IEEE Transactions on Instrumentation and Measurement, 2024. <span style="color:#B19CD9;">*(ESI Highly Cited Paper)*</span>  
+  [📄 Paper](#) | [💻 Code](#)
+
+- **Long Zhuang**, et al. *4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.* IEEE Robotics and Automation Letters, 2025.  
+  [📄 Paper](#) | [💻 Code](#)
+
+- **Long Zhuang**, et al. *Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.* IEEE Robotics and Automation Letters, 2025.  
+  [📄 Paper](#) | [💻 Code](#)
+
+- **Long Zhuang**, et al. *Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.* IEEE Sensors Journal, 2024.  
+  [📄 Paper](#) | [💻 Code](#)
+
+- **Long Zhuang**, et al. *Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.* IEEE Sensors Journal, 2024.  
+  [📄 Paper](#) | [💻 Code](#)
+
+- Tiezhen Jiang, **Long Zhuang***, et al. *T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.* IEEE Transactions on Instrumentation and Measurement, 2023.  
+  [📄 Paper](#) | [💻 Code](#)
+
+- Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, **Long Zhuang***, et al. *CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.* Measurement Science and Technology, 2024.  
+  [📄 Paper](#) | [💻 Code](#)
+
+- Tiezhen Jiang, **Long Zhuang***, Jianhua Wang, Qi An. *Design of dual-band filtering patch antenna slot coupling feed.* International Journal of Microwave and Wireless Technologies, 2024.  
+  [📄 Paper](#) | [💻 Code](#)
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
