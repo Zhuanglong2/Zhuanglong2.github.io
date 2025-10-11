@@ -31,21 +31,21 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 </span>
 
 # 📝 Publications 
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao*, and Nuo Li.  
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Nuo Li.  
 *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.*  
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2025.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/11112643) | [[💻 Code]](https://github.com/Zhuanglong2/RC-ROSNet)
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang, Hao Jiang, Anqi Wang, and Zhixiang Huang.  
+🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\*, Hao Jiang, Anqi Wang, and Zhixiang Huang.  
 *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.*  
 <i>IEEE Transactions on Intelligent Vehicles</i>, 2024.  
 [[📄 Paper]](https://ieeexplore.ieee.org/document/10356738)
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, et al.  
+🔹 **<u>Long Zhuang</u>**, Kai Luo, and Zhibo Yang\*.  
 *A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.*  
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024.  
 <span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span>  
