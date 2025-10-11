@@ -30,16 +30,80 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 </span>
 
 # 📝 Publications 
-- **<u>Long Zhuang</u>**, et al. *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.* IEEE Transactions on Circuits and Systems for Video Technology, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11112643) | [[Code]](https://github.com/Zhuanglong2/RC-ROSNet)
-- **Long Zhuang**, et al. *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.* IEEE Transactions on Intelligent Vehicles, 2024. [Paper](https://ieeexplore.ieee.org/document/10356738)
-- **Long Zhuang**, et al. *A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.* IEEE Transactions on Instrumentation and Measurement, 2024. <span style="color:#B19CD9;">*(ESI Highly Cited Paper)*</span> [[Paper]](https://ieeexplore.ieee.org/document/10379118)
-- **Long Zhuang**, et al. *4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.* IEEE Robotics and Automation Letters, 2025. [[Paper]](https://ieeexplore.ieee.org/document/10950073) | [[Code]](https://github.com/Zhuanglong2/4DRC-OC)
-- **Long Zhuang**, et al. *Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.* IEEE Robotics and Automation Letters, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11192687) | [Code](https://github.com/Zhuanglong2/Mamba-RODNet)
-- **Long Zhuang**, et al. *Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.* IEEE Sensors Journal, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10608068) | [Code](https://github.com/Zhuanglong2/Condformer)
-- **Long Zhuang**, et al. *Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.* IEEE Sensors Journal, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10353950)
-- Tiezhen Jiang, **Long Zhuang***, et al. *T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.* IEEE Transactions on Instrumentation and Measurement, 2023. [[Paper]](https://ieeexplore.ieee.org/document/9989400) | [[Code]](https://github.com/Zhuanglong2/T-RODNet)
-- Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, **Long Zhuang***, et al. *CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.* Measurement Science and Technology, 2024. [[Paper]](https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef)
-- Tiezhen Jiang, **Long Zhuang***, Jianhua Wang, Qi An. *Design of dual-band filtering patch antenna slot coupling feed.* International Journal of Microwave and Wireless Technologies, 2024. [[Paper]](https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD)
+
+<div style="line-height:1.6; font-size: 16px;">
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.*  
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2025.  
+[📄 Paper](https://ieeexplore.ieee.org/document/11112643) | [💻 Code](https://github.com/Zhuanglong2/RC-ROSNet)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.*  
+<i>IEEE Transactions on Intelligent Vehicles</i>, 2024.  
+[📄 Paper](https://ieeexplore.ieee.org/document/10356738)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.*  
+<i>IEEE Transactions on Instrumentation and Measurement</i>, 2024.  
+<span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span>  
+[📄 Paper](https://ieeexplore.ieee.org/document/10379118)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.*  
+<i>IEEE Robotics and Automation Letters</i>, 2025.  
+[📄 Paper](https://ieeexplore.ieee.org/document/10950073) | [💻 Code](https://github.com/Zhuanglong2/4DRC-OC)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*  
+<i>IEEE Robotics and Automation Letters</i>, 2025.  
+[📄 Paper](https://ieeexplore.ieee.org/document/11192687) | [💻 Code](https://github.com/Zhuanglong2/Mamba-RODNet)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*  
+<i>IEEE Sensors Journal</i>, 2024.  
+[📄 Paper](https://ieeexplore.ieee.org/document/10608068) | [💻 Code](https://github.com/Zhuanglong2/Condformer)
+
+---
+
+🔹 **<u>Long Zhuang</u>**, et al.  
+*Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.*  
+<i>IEEE Sensors Journal</i>, 2024.  
+[📄 Paper](https://ieeexplore.ieee.org/document/10353950)
+
+---
+
+🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, et al.  
+*T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.*  
+<i>IEEE Transactions on Instrumentation and Measurement</i>, 2023.  
+[📄 Paper](https://ieeexplore.ieee.org/document/9989400) | [💻 Code](https://github.com/Zhuanglong2/T-RODNet)
+
+---
+
+🔹 Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, **<u>Long Zhuang*</u>**, et al.  
+*CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.*  
+<i>Measurement Science and Technology</i>, 2024.  
+[📄 Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef)
+
+---
+
+🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Jianhua Wang, Qi An.  
+*Design of dual-band filtering patch antenna slot coupling feed.*  
+<i>International Journal of Microwave and Wireless Technologies</i>, 2024.  
+[📄 Paper](https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD)
+
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
