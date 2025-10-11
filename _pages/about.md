@@ -15,9 +15,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# I am currently in the second year of my doctoral studies at the Advanced Navigation Research Institute of Southeast University, under the supervision of Associate Professor Yiqing Yao.
+## About Me
 
-# My research focuses on improving environmental sensing and navigation-based localization in complex environments using millimeter-wave radar, primarily through deep learning and multi-sensor fusion techniques.<a href='https://scholar.google.com/citations?user=uzRvavcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am currently in the second year of my doctoral studies at the Advanced Navigation Research Institute of Southeast University, under the supervision of Associate Professor Yiqing Yao.
+
+My research focuses on improving <span style="color:#A78BFA; font-weight:bold;">environmental sensing</span> and <span style="color:#A78BFA; font-weight:bold;">navigation-based localization</span> in complex environments using millimeter-wave radar, primarily through <span style="color:#A78BFA; font-weight:bold;">deep learning</span> and <span style="color:#A78BFA; font-weight:bold;">multi-sensor fusion</span> techniques.  
+<a href='https://scholar.google.com/citations?user=uzRvavcAAAAJ'>
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
+
 
 # 🔥 News
 # <span style="color:#B19CD9;"> I am currently looking for a supervisor in the field of autonomous driving to pursue a CSC joint PhD program, where I can contribute my expertise in perception, localization, and multi-sensor fusion for intelligent vehicles.</span>
