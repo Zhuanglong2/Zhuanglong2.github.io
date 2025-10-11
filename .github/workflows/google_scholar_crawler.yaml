@@ -34,7 +34,7 @@ jobs:
           git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
           # 添加并提交 JSON 文件
-          git add *.json
+          git add results/*.json
           git commit -m "Updated Citation Data" || echo "No changes to commit"
 
           # 推送到 main 分支
