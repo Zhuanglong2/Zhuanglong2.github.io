@@ -90,13 +90,11 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 
 
 # 📖 Educations
-- *2024.09 - present*, Ph.D. candidate at Southeast University, Nanjing, China. 
-- *2021.09 - 2024.06*, M.S. at Anhui University, Hefei, China.
+- *2024.09 - present*, Ph.D. candidate at Southeast University, Nanjing, China. Doctoral Advisor: Yiqing Yao
+- *2021.09 - 2024.06*, M.S. at Anhui University, Hefei, China. Master's Advisor: Tiezhen Jiang
 
 
 # 🤝 Collaborators
-- Doctoral Advisor: Yiqing Yao
-- Master's Advisor: Tiezhen Jiang
 - [Lianqing Zheng](https://zhenglianqing.github.io/#-Short%20Bio), Ph.D. candidate in the School of Automotive Studies, Tongji University, Shanghai.
 - Yuan Fang, Ph.D. candidate in the Urban wireless sensing lab, Department of Security and Crime Science, University College London, United Kingdom.
 - Kai Luo, Ph.D. candidate in the Southern University of Science and Technology, Shenzhen, P. R. China.
