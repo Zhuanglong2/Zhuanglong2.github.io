@@ -13,4 +13,4 @@ main:
     url: "/#-educations"
     
   - title: "Educations"
-  url: "/#-collaborators"
+    url: "/#-collaborators"
