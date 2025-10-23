@@ -92,3 +92,9 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 # 📖 Educations
 - *2024.09 - present*, Ph.D. candidate at Southeast University, Nanjing, China. 
 - *2021.09 - 2024.06*, M.S. at Anhui University, Hefei, China.
+
+
+# 🌟 Collaborators
+- [Lianqing Zheng](https://zhenglianqing.github.io/#-Short%20Bio), Ph.D. candidate in the School of Automotive Studies, Tongji University, Shanghai.
+- Yuan Fang, Ph.D. candidate in the Department of Security and Crime Science, University College London, United Kingdom.
+- Jianan Liu, Momoni AI.
