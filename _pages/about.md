@@ -97,4 +97,4 @@ I am currently seeking a supervisor in autonomous driving for a CSC joint PhD pr
 # 🤝 Collaborators
 - [Lianqing Zheng](https://zhenglianqing.github.io/#-Short%20Bio), Ph.D. candidate in the School of Automotive Studies, Tongji University, Shanghai.
 - Yuan Fang, Ph.D. candidate in the Urban wireless sensing lab, Department of Security and Crime Science, University College London, United Kingdom.
-- Jianan Liu, Momoni AI.
+- Kai Luo, Ph.D. candidate in the Southern University of Science and Technology, Shenzhen, P. R. China.
