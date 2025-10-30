@@ -26,7 +26,7 @@ My research focuses on **millimeter-wave radar-based environmental perception an
 
 # 🔥 News
 <span style="color:#A78BFA; font-weight:bold;">
-I am currently seeking a supervisor in autonomous driving for a CSC joint PhD program, where I aim to contribute my expertise in perception, localization, and multi-sensor fusion for intelligent vehicles.
+I have received a verbal offer from my overseas supervisor and will next apply for the CSC scholarship. After that, I will go abroad for a one-year joint Ph.D. training program (from September 1, 2026 to August 31, 2027). I am looking forward to the upcoming study and life abroad!
 </span>
 
 # 📝 Publications 
