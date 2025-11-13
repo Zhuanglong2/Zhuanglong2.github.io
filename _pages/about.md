@@ -30,6 +30,12 @@ I have received a verbal offer from my overseas supervisor and will next apply f
 </span>
 
 # 📝 Publications 
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
+*RCOC-Distill: Boosting 4D Radar-Camera Online Calibration with Knowledge Distillation from LiDAR Features.*[Paper] [[Code]](https://github.com/Zhuanglong2/RCOC-Distill)  
+<i>IEEE Transactions on Multimedia</i>, 2025.  
+
+---
+
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Nuo Li.  
 *RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.*[[Paper]](https://ieeexplore.ieee.org/document/11112643) [[Code]](https://github.com/Zhuanglong2/RC-ROSNet)  
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2025.  
