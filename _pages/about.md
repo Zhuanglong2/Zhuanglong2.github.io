@@ -102,5 +102,5 @@ I have received a verbal offer from my overseas supervisor and will next apply f
 
 # 🤝 Collaborators
 - [Lianqing Zheng](https://zhenglianqing.github.io/#-Short%20Bio), Ph.D. candidate in the School of Automotive Studies, Tongji University, Shanghai.
+- [Kai Luo]([https://zhenglianqing.github.io/#-Short%20Bio](https://scholar.google.com.hk/citations?hl=en&user=ZK6p4eEAAAAJ)), Ph.D. candidate in the School of Automation and Intelligent Manufacturing (AIM), Southern University of Science and Technology, Shenzhen, P. R. China.
 - Yuan Fang, Ph.D. candidate in the Urban wireless sensing lab, Department of Security and Crime Science, University College London, United Kingdom.
-- Kai Luo, Ph.D. candidate in the School of Automation and Intelligent Manufacturing (AIM), Southern University of Science and Technology, Shenzhen, P. R. China.
