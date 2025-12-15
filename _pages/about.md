@@ -15,21 +15,21 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 😄 About Me
+## 😄 About Me
 
-I am currently in <span style="color:#A78BFA; font-weight:bold;">the second year of my doctoral studies at Southeast University</span>, under the supervision of Associate Professor Yiqing Yao.
+I am currently a second-year Ph.D. student at Southeast University, supervised by Associate Professor Yiqing Yao.
 
-My research focuses on **millimeter-wave radar-based environmental perception and localization** for **autonomous driving** in **complex environments**, primarily using **deep learning and multi-sensor fusion techniques**.  <a href='https://scholar.google.com/citations?user=uzRvavcAAAAJ'>
+My research focuses on millimeter-wave radar-based environmental perception and localization for autonomous driving in complex environments, with an emphasis on deep learning and multi-sensor fusion.
+
+<a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
+
 ## 🔥 News
 
-**<span style="color:#A78BFA;">2025-12-15</span>**  
-I am honored to be selected for the <span style="color:#A78BFA; font-weight:bold;">2025 Special Program for Doctoral Students</span> under the <span style="color:#A78BFA; font-weight:bold;">CSCS Young Science and Technology Talent Cultivation Project</span>.
-
-**<span style="color:#A78BFA;">2025-10-27</span>**  
-I have received a verbal offer from my overseas supervisor and will proceed with the application for the <span style="color:#A78BFA; font-weight:bold;">CSC scholarship</span>. Upon approval, I will undertake a <span style="color:#A78BFA; font-weight:bold;">one-year joint Ph.D. training program abroad</span> from <span style="color:#A78BFA; font-weight:bold;">September 1, 2026, to August 31, 2027</span>. I am very much looking forward to the upcoming academic experience and life overseas.
+- **2025-12-15**: Selected for the *2025 Special Program for Doctoral Students* under the *CSCS Young Science and Technology Talent Cultivation Project*.
+- **2025-10-27**: Received a verbal offer from an overseas supervisor and will apply for the *CSC Scholarship*. Planned *one-year joint Ph.D. training abroad* (Sep. 2026 – Aug. 2027).
 
 # 📝 Publications 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
