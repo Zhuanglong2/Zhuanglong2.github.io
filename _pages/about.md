@@ -29,7 +29,7 @@ My research focuses on **millimeter-wave radar-based environmental perception an
 <span style="color:#A78BFA; font-weight:bold;">
 2025-12-15: I am honored to be selected for the <strong>2025 Special Program for Doctoral Students</strong> under the <strong>CSCS Young Science and Technology Talent Cultivation Project</strong>.<br><br>
 
-I have received a verbal offer from my overseas supervisor and will proceed with the application for the <strong>CSC scholarship</strong>. Upon approval, I will undertake a <strong>one-year joint Ph.D. training program abroad</strong> from <strong>September 1, 2026, to August 31, 2027</strong>. I am very much looking forward to the upcoming academic experience and life overseas.
+2025-10-27: I have received a verbal offer from my overseas supervisor and will proceed with the application for the <strong>CSC scholarship</strong>. Upon approval, I will undertake a <strong>one-year joint Ph.D. training program abroad</strong> from <strong>September 1, 2026, to August 31, 2027</strong>. I am very much looking forward to the upcoming academic experience and life overseas.
 </span>
 
 
