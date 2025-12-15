@@ -24,10 +24,14 @@ My research focuses on **millimeter-wave radar-based environmental perception an
 </a>
 
 
-# 🔥 News
+## 🔥 News
+
 <span style="color:#A78BFA; font-weight:bold;">
-I have received a verbal offer from my overseas supervisor and will next apply for the CSC scholarship. After that, I will go abroad for a one-year joint Ph.D. training program (from September 1, 2026 to August 31, 2027). I am looking forward to the upcoming study and life abroad!
+2025-12-15: I am honored to be selected for the <strong>2025 Special Program for Doctoral Students</strong> under the <strong>CSCS Young Science and Technology Talent Cultivation Project</strong>.<br><br>
+
+I have received a verbal offer from my overseas supervisor and will proceed with the application for the <strong>CSC scholarship</strong>. Upon approval, I will undertake a <strong>one-year joint Ph.D. training program abroad</strong> from <strong>September 1, 2026, to August 31, 2027</strong>. I am very much looking forward to the upcoming academic experience and life overseas.
 </span>
+
 
 # 📝 Publications 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
