@@ -19,9 +19,7 @@ redirect_from:
 
 I am currently a second-year Ph.D. student at Southeast University, supervised by Associate Professor Yiqing Yao.
 
-My research focuses on millimeter-wave radar-based environmental perception and localization for autonomous driving in complex environments, with an emphasis on deep learning and multi-sensor fusion.
-
-<a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ">
+My research focuses on millimeter-wave radar-based environmental perception and localization for autonomous driving in complex environments, with an emphasis on deep learning and multi-sensor fusion.<a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
