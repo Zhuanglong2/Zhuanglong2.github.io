@@ -26,7 +26,7 @@ My research focuses on millimeter-wave radar-based environmental perception and 
 
 ## 🔥 News
 
-- **2026-03-19**: 🎉 One paper ([<font color="#9b008b">RCOC-Distill</font>](https://ieeexplore.ieee.org/document/11432979)) accepted to <font color="#9b008b">TMM-2026</font>. [[Code]](https://github.com/Zhuanglong2/RCOC-Distill)
+- **2026-03-19**: 🎉 Our paper ([<font color="#9b008b">RCOC-Distill</font>](https://ieeexplore.ieee.org/document/11432979)) is published in <font color="#9b008b">TMM</font>. [[Code]](https://github.com/Zhuanglong2/RCOC-Distill)
 - **2025-12-15**: Selected for the *2025 Special Program for Doctoral Students* under the *CSCS Young Science and Technology Talent Cultivation Project*.
 - **2025-10-27**: Received a verbal offer from an overseas supervisor and will apply for the *CSC Scholarship*. Planned *one-year joint Ph.D. training abroad* (Sep. 2026 – Aug. 2027).
 
