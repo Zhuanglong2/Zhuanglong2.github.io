@@ -27,8 +27,8 @@ My research focuses on millimeter-wave radar-based environmental perception and 
 ## 🔥 News
 
 - **2026-03-19**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11432979" style="color: #9b008b; text-decoration: none;">RCOC-Distill</a> is published in <font color="#9b008b">TMM</font>. [[Paper]](https://ieeexplore.ieee.org/document/11432979) [[Code]](https://github.com/Zhuanglong2/RCOC-Distill)
-- **2025-12-15**: Selected for the *2025 Special Program for Doctoral Students* under the *CSCS Young Science and Technology Talent Cultivation Project*.
-- **2025-10-27**: Received a verbal offer from an overseas supervisor and will apply for the *CSC Scholarship*. Planned *one-year joint Ph.D. training abroad* (Sep. 2026 – Aug. 2027).
+- **2025-12-15**: Selected for the <font color="#9b008b">2025 Special Program for Doctoral Students</font> under the <font color="#9b008b">CSCS Young Science and Technology Talent Cultivation Project</font>.
+- **2025-10-27**: Received a verbal offer from an overseas supervisor and will apply for the <font color="#9b008b">CSC Scholarship</font>. Planned <font color="#9b008b">one-year joint Ph.D. training abroad</font> (Sep. 2026 – Aug. 2027).
 
 # 📝 Publications 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
