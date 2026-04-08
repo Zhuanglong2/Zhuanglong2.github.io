@@ -33,7 +33,7 @@ My research focuses on millimeter-wave radar-based environmental perception and 
 
 # 📝 Publications 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
-*RCPRNet: Robust 4D Radar-Camera Place Recognition.*
+*RCPRNet: Robust 4D Radar-Camera Place Recognition.* 
 <i>IEEE Transactions on Industrial Electronics</i>, 2026.  
 
 ---
