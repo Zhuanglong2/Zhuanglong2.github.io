@@ -107,9 +107,16 @@ My research interests include autonomous driving, 4D radar perception, localizat
 <i>International Journal of Microwave and Wireless Technologies</i>, 2024.  
 
 
-# 📖 Educations
-- *2024.09 - present*, Ph.D. candidate at Southeast University, Nanjing, China. Doctoral Advisor: Yiqing Yao
-- *2021.09 - 2024.06*, M.S. at Anhui University, Hefei, China. Master's Advisor: Tiezhen Jiang
+# 📖 Education
+
+- *2024 – Present*, Ph.D. Candidate, Southeast University, Nanjing, China  
+  Supervisor: Associate Professor Yiqing Yao  
+
+- *Sep. 2026 – Aug. 2027*, Visiting Joint Ph.D. Student, Nanyang Technological University (NTU), Singapore  
+  Supervisor: Associate Professor Bihan Wen  
+
+- *2021 – 2024*, M.S., Anhui University, Hefei, China  
+  Supervisor: Associate Professor Tiezhen Jiang
 
 
 # 🤝 Collaborators
