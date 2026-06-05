@@ -19,12 +19,15 @@ redirect_from:
 
 I am a Ph.D. candidate in Instrument Science and Technology at Southeast University, advised by Associate Professor <font color="#9b008b">Yiqing Yao</font>. From Sep. 2026 to Aug. 2027, I will be a visiting joint Ph.D. student at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font>, working with Associate Professor <font color="#9b008b">Bihan Wen</font> under the support of the <font color="#9b008b">China Scholarship Council (CSC)</font>.
 
-My research interests include autonomous driving, 4D radar perception, localization and mapping, multi-sensor fusion, embodied AI, and robotic perception. My goal is to develop robust perception and navigation systems that enable intelligent robots to operate reliably in complex real-world environments.
+My research interests include autonomous driving, 4D radar perception, localization and mapping, multi-sensor fusion, embodied AI, and robotic perception.
+
+<font color="#9b008b"><b>My goal is to develop robust perception and navigation systems that enable intelligent robots to operate reliably in complex real-world environments.</b></font>
+
 <a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
-🔥 <font color="#9b008b">I am actively seeking postdoctoral opportunities starting in 2027 in the areas of autonomous driving, robotics, embodied AI, and multimodal perception. Researchers interested in collaboration or relevant opportunities are welcome to contact me at <b>longzhuang21@126.com</b>.</font>
+🔥 <font color="#9b008b"><b>I am actively seeking postdoctoral opportunities starting in 2027</b> in the areas of autonomous driving, robotics, embodied AI, and multimodal perception. Researchers interested in collaboration or relevant opportunities are welcome to contact me at <b>longzhuang21@126.com</b>.</font>
 
 
 ## 🔥 News
