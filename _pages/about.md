@@ -26,7 +26,7 @@ My research focuses on millimeter-wave radar-based environmental perception and 
 
 ## 🔥 News
 
-- **2026-05-28**: 🎉 Awarded the <font color="#9b008b">CSC Scholarship</font> and will join the research group of <font color="#9b008b">Assoc. Prof. Bihan Wen</font> at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font> as a joint Ph.D. student from <font color="#9b008b">Sep. 2026 to Aug. 2027</font>. :contentReference[oaicite:0]{index=0}
+- **2026-05-28**: 🎉 Awarded the <font color="#9b008b">CSC Scholarship</font> and will join the research group of <font color="#9b008b">Assoc. Prof. Bihan Wen</font> at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font> as a joint Ph.D. student from <font color="#9b008b">Sep. 2026 to Aug. 2027</font>.
 - **2026-05-24**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11534327" style="color: #9b008b; text-decoration: none;">RCPRNet</a> is published in <font color="#9b008b">TIE</font>. [[Paper]](https://ieeexplore.ieee.org/document/11534327) [[Code]](https://github.com/Zhuanglong2/RCPRNet)
 - **2026-03-19**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11432979" style="color: #9b008b; text-decoration: none;">RCOC-Distill</a> is published in <font color="#9b008b">TMM</font>. [[Paper]](https://ieeexplore.ieee.org/document/11432979) [[Code]](https://github.com/Zhuanglong2/RCOC-Distill)
 - **2025-12-15**: Selected for the <font color="#9b008b">2025 Special Program for Doctoral Students</font> under the <font color="#9b008b">CSCS Young Science and Technology Talent Cultivation Project</font>.
