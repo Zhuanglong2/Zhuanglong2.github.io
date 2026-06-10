@@ -25,10 +25,7 @@ My research interests include autonomous driving, 4D radar perception, localizat
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
----
-
-<font color="#9b008b"><b>Postdoctoral Opportunities (2027+)</b></font>  
-I am actively seeking postdoctoral positions starting in 2027 in the areas of autonomous driving, robotics, embodied AI, and multimodal perception. I welcome discussions on potential collaborations and relevant opportunities. Contact: <b>longzhuang21@126.com</b>.
+**<ins>❤️‍🔥🔜: <font color=Blue>I am actively seeking postdoctoral positions starting in 2027 in the areas of autonomous driving, robotics, embodied AI, and multimodal perception. I welcome discussions on potential collaborations and relevant opportunities. Contact: <b>longzhuang21@126.com</b>.</font></ins>**
 
 
 ## 🔥 News
