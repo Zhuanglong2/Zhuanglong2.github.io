@@ -31,7 +31,7 @@ My research interests include autonomous driving, 4D radar perception, localizat
 
 ## 🔥 News
 
-- **2026-09-15**: 🎉 Joined the research group of <font color="#9b008b">Assoc. Prof. Bihan Wen</font> at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font> as a visiting joint Ph.D. student, supported by the <font color="#9b008b">China Scholarship Council (CSC)</font>. The research visit is scheduled from <font color="#9b008b">Sep. 2026 to Aug. 2027</font>.
+- **2026-09-15**: Joined the research group of <font color="#9b008b">Assoc. Prof. Bihan Wen</font> at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font> as a visiting joint Ph.D. student, supported by the <font color="#9b008b">China Scholarship Council (CSC)</font>. The research visit is scheduled from <font color="#9b008b">Sep. 2026 to Aug. 2027</font>.
 - **2026-05-24**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11534327" style="color: #9b008b; text-decoration: none;">RCPRNet</a> is published in <font color="#9b008b">TIE</font>. [[Paper]](https://ieeexplore.ieee.org/document/11534327) [[Code]](https://github.com/Zhuanglong2/RCPRNet)
 - **2026-03-19**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11432979" style="color: #9b008b; text-decoration: none;">RCOC-Distill</a> is published in <font color="#9b008b">TMM</font>. [[Paper]](https://ieeexplore.ieee.org/document/11432979) [[Code]](https://github.com/Zhuanglong2/RCOC-Distill)
 - **2025-12-15**: Selected for the <font color="#9b008b">2025 Special Program for Doctoral Students</font> under the <font color="#9b008b">CSCS Young Science and Technology Talent Cultivation Project</font>.
