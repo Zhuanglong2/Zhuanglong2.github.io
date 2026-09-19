@@ -17,15 +17,17 @@ redirect_from:
 
 ## 😄 About Me
 
-I am a Ph.D. candidate in Instrument Science and Technology at Southeast University, advised by Associate Professor <font color="#9b008b">Yiqing Yao</font>.
+I am a Ph.D. candidate in Instrument Science and Technology at <font color="#9b008b">Southeast University (SEU)</font>, advised by Associate Professor <font color="#9b008b">Yiqing Yao</font>.
 
-From Sep. 2026 to Aug. 2027, I will be a visiting joint Ph.D. student at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font>, working with Associate Professor <font color="#9b008b">Bihan Wen</font> under the support of the <font color="#9b008b">China Scholarship Council (CSC)</font>.
+Since Sep. 2026, I have been a visiting joint Ph.D. student at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font>, working with Associate Professor <font color="#9b008b">Bihan Wen</font>, with support from the <font color="#9b008b">China Scholarship Council (CSC)</font>. My joint Ph.D. research visit at NTU is scheduled from Sep. 2026 to Aug. 2027.
 
-My research interests include autonomous driving, 4D radar perception, localization and mapping, multi-sensor fusion, embodied AI, and robotic perception. In particular, <font color="#9b008b">my research goal is to develop robust perception and navigation systems that enable intelligent robots to operate reliably in complex real-world environments.</font><a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ">
+My research interests include autonomous driving, 4D radar perception, localization and mapping, multi-sensor fusion, embodied AI, and robotic perception. In particular, <font color="#9b008b">my research goal is to develop robust perception and navigation systems that enable intelligent robots to operate reliably in complex real-world environments.</font>
+
+<a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
-**<ins>🔜: <font color=Blue>I am actively seeking postdoctoral positions starting in 2027 in the areas of autonomous driving, robotics, embodied AI, and multimodal perception. I welcome discussions on potential collaborations and relevant opportunities. Contact: <b>longzhuang21@126.com</b>.</font></ins>**
+**<ins>🔜: <font color="Blue">I am actively seeking postdoctoral positions starting in 2027 in the areas of autonomous driving, robotics, embodied AI, and multimodal perception. I welcome discussions on potential collaborations and relevant opportunities. Contact: <b>longzhuang21@126.com</b>.</font></ins>**
 
 
 ## 🔥 News
