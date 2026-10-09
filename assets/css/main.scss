@@ -107,3 +107,31 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.accent {
+    color: #9b008b;
+}
+
+.accent-link {
+    color: #9b008b;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.opportunity-note {
+    margin: 1.5em 0;
+    padding: 0.85em 1em;
+    border-left: 4px solid #9b008b;
+    background: #f7f7f7;
+}
+
+.opportunity-note a {
+    color: inherit;
+}
+
+.highlight-note {
+    color: #7a5a00;
+}

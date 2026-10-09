@@ -17,24 +17,24 @@ redirect_from:
 
 ## 😄 About Me
 
-I am a Ph.D. candidate in Instrument Science and Technology at <font color="#9b008b">Southeast University (SEU)</font>, advised by Associate Professor <font color="#9b008b">Yiqing Yao</font>.
+I am a Ph.D. candidate in Instrument Science and Technology at <span class="accent">Southeast University (SEU)</span>, advised by Associate Professor <span class="accent">Yiqing Yao</span>.
 
-Since Sep. 2026, I have been a visiting joint Ph.D. student in the <font color="#9b008b">School of Electrical and Electronic Engineering (EEE)</font> at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font>, working with Associate Professor <a href="https://personal.ntu.edu.sg/bihan.wen/" style="color: #9b008b; text-decoration: none;">Bihan Wen</a>, supported by the <font color="#9b008b">China Scholarship Council (CSC)</font>. My research visit at NTU runs from Sep. 2026 to Aug. 2027.
+Since Sep. 2026, I have been a visiting joint Ph.D. student in the <span class="accent">School of Electrical and Electronic Engineering (EEE)</span> at <span class="accent">Nanyang Technological University (NTU), Singapore</span>, working with Associate Professor <a href="https://personal.ntu.edu.sg/bihan.wen/" class="accent-link">Bihan Wen</a>, supported by the <span class="accent">China Scholarship Council (CSC)</span>. My research visit at NTU runs from Sep. 2026 to Aug. 2027.
 
-My research interest is <font color="#9b008b">Millimeter-Wave Radar-Based Multimodal Perception and Localization</font>. In particular, my research goal is to develop robust perception and navigation systems that enable intelligent robots to operate reliably in complex real-world environments.<a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ">
+My research interest is <span class="accent">millimeter-wave radar-based multimodal perception and localization</span>. In particular, my research goal is to develop robust perception and navigation systems that enable intelligent robots to operate reliably in complex real-world environments. <a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ" aria-label="View my Google Scholar profile">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
 
-**<ins>🔜: <font color="Blue">I am actively seeking postdoctoral positions starting in 2028 in the areas of autonomous driving, robotics, embodied AI, and multimodal perception. I welcome discussions on potential collaborations and relevant opportunities. Contact: <b>longzhuang21@126.com</b>.</font></ins>**
+<p class="opportunity-note"><strong>🔜 I am actively seeking postdoctoral positions starting in 2028 in autonomous driving, robotics, embodied AI, and multimodal perception. I welcome discussions on potential collaborations and relevant opportunities. Contact: <a href="mailto:longzhuang21@126.com">longzhuang21@126.com</a>.</strong></p>
 
 
 ## 🔥 News
 
-- **2026-09-15**: Joined the research group of <font color="#9b008b">Assoc. Prof. Bihan Wen</font> at <font color="#9b008b">Nanyang Technological University (NTU), Singapore</font> as a visiting joint Ph.D. student, supported by the <font color="#9b008b">China Scholarship Council (CSC)</font>. The research visit is scheduled from <font color="#9b008b">Sep. 2026 to Aug. 2027</font>.
-- **2026-05-24**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11534327" style="color: #9b008b; text-decoration: none;">RCPRNet</a> is published in <font color="#9b008b">TIE</font>. [[Paper]](https://ieeexplore.ieee.org/document/11534327) [[Code]](https://github.com/Zhuanglong2/RCPRNet)
-- **2026-03-19**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11432979" style="color: #9b008b; text-decoration: none;">RCOC-Distill</a> is published in <font color="#9b008b">TMM</font>. [[Paper]](https://ieeexplore.ieee.org/document/11432979) [[Code]](https://github.com/Zhuanglong2/RCOC-Distill)
-- **2025-12-15**: Selected for the <font color="#9b008b">2025 Special Program for Doctoral Students</font> under the <font color="#9b008b">CSCS Young Science and Technology Talent Cultivation Project</font>.
+- **2026-09-15**: Joined the research group of <span class="accent">Assoc. Prof. Bihan Wen</span> at <span class="accent">Nanyang Technological University (NTU), Singapore</span> as a visiting joint Ph.D. student, supported by the <span class="accent">China Scholarship Council (CSC)</span>. The research visit is scheduled from <span class="accent">Sep. 2026 to Aug. 2027</span>.
+- **2026-05-24**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11534327" class="accent-link">RCPRNet</a> is published in <span class="accent">TIE</span>. [Paper](https://ieeexplore.ieee.org/document/11534327) [Code](https://github.com/Zhuanglong2/RCPRNet)
+- **2026-03-19**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11432979" class="accent-link">RCOC-Distill</a> is published in <span class="accent">TMM</span>. [Paper](https://ieeexplore.ieee.org/document/11432979) [Code](https://github.com/Zhuanglong2/RCOC-Distill)
+- **2025-12-15**: Selected for the <span class="accent">2025 Special Program for Doctoral Students</span> under the <span class="accent">CSCS Young Science and Technology Talent Cultivation Project</span>.
 
 # 📝 Publications 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
@@ -44,67 +44,67 @@ My research interest is <font color="#9b008b">Millimeter-Wave Radar-Based Multim
 ---
 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
-*RCOC-Distill: Boosting 4D Radar-Camera Online Calibration with Knowledge Distillation from LiDAR Features.*[[Paper]](https://ieeexplore.ieee.org/document/11432979) [[Code]](https://github.com/Zhuanglong2/RCOC-Distill)  
+*RCOC-Distill: Boosting 4D Radar-Camera Online Calibration with Knowledge Distillation from LiDAR Features.* [Paper](https://ieeexplore.ieee.org/document/11432979) [Code](https://github.com/Zhuanglong2/RCOC-Distill)<br>
 <i>IEEE Transactions on Multimedia</i>, 2026.  
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Nuo Li.  
-*RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.*[[Paper]](https://ieeexplore.ieee.org/document/11112643) [[Code]](https://github.com/Zhuanglong2/RC-ROSNet)  
+*RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.* [Paper](https://ieeexplore.ieee.org/document/11112643) [Code](https://github.com/Zhuanglong2/RC-ROSNet)<br>
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2026.  
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\*, Hao Jiang, Anqi Wang, and Zhixiang Huang.  
-*LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.*[[Paper]](https://ieeexplore.ieee.org/document/10356738)  
+*LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.* [Paper](https://ieeexplore.ieee.org/document/10356738)<br>
 <i>IEEE Transactions on Intelligent Vehicles</i>, 2024.  
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Kai Luo, and Zhibo Yang\*.  
-*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.*<span style="color:#B19CD9;">⭐ (ESI Highly Cited Paper)</span> [[Paper]](https://ieeexplore.ieee.org/document/10379118)  
+*A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.* <span class="highlight-note">⭐ (ESI Highly Cited Paper)</span> [Paper](https://ieeexplore.ieee.org/document/10379118)<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024.  
  
 ---
 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Nuo Li, Zijian Wang, Lingtong Zhong, Zijing Zhang, and Tao Zhang.  
-*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.*[[Paper]](https://ieeexplore.ieee.org/document/10950073) [[Code]](https://github.com/Zhuanglong2/4DRC-OC)  
+*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.* [Paper](https://ieeexplore.ieee.org/document/10950073) [Code](https://github.com/Zhuanglong2/4DRC-OC)<br>
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.  
-*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.*[[Paper]](https://ieeexplore.ieee.org/document/11192687) [[Code]](https://github.com/Zhuanglong2/Mamba-RODNet)  
+*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.* [Paper](https://ieeexplore.ieee.org/document/11192687) [Code](https://github.com/Zhuanglong2/Mamba-RODNet)<br>
 <i>IEEE Robotics and Automation Letters</i>, 2025.  
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\*, Meng Qiu, Anqi Wang, and Zhixiang Huang.  
-*Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.*[[Paper]](https://ieeexplore.ieee.org/document/10608068) [[Code]](https://github.com/Zhuanglong2/Condformer)  
+*Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.* [Paper](https://ieeexplore.ieee.org/document/10608068) [Code](https://github.com/Zhuanglong2/Condformer)<br>
 <i>IEEE Sensors Journal</i>, 2024.  
 
 ---
 
 🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\*, Jianhua Wang, Qi An, Kai Xiao, and Anqi Wang.  
-*Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.*[[Paper]](https://ieeexplore.ieee.org/document/10353950)  
+*Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.* [Paper](https://ieeexplore.ieee.org/document/10353950)<br>
 <i>IEEE Sensors Journal</i>, 2024.  
 
 ---
 
 🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Qi An, Jianhua Wang, Kai Xiao, and Anqi Wang.  
-*T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.*[[Paper]](https://ieeexplore.ieee.org/document/9989400) [[Code]](https://github.com/Zhuanglong2/T-RODNet)    
+*T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.* [Paper](https://ieeexplore.ieee.org/document/9989400) [Code](https://github.com/Zhuanglong2/T-RODNet)<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2023.  
 
 ---
 
 🔹 Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, and **<u>Long Zhuang*</u>**, et al.  
-*CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.*[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef)  
+*CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.* [Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef)<br>
 <i>Measurement Science and Technology</i>, 2024.  
 
 ---
 
 🔹 Tiezhen Jiang, **<u>Long Zhuang*</u>**, Jianhua Wang, Qi An.  
-*Design of dual-band filtering patch antenna slot coupling feed.*[[Paper]](https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD)  
+*Design of dual-band filtering patch antenna slot coupling feed.* [Paper](https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD)<br>
 <i>International Journal of Microwave and Wireless Technologies</i>, 2024.  
 
 
