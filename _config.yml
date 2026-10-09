@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Long Zhuang"
   avatar           : "images/zl2.jpg"
-  bio              : "Work hard, play hard"
+  bio              : "Ph.D. Candidate in Radar and Multimodal Perception"
   location         : "Nanjing, China"
-  employer         :
+  employer         : "Southeast University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uzRvavcAAAAJ"
   email            : "longzhuang21@126.com"
