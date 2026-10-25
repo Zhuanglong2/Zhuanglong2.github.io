@@ -38,10 +38,102 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 - **2025-12-15**: Selected for the <span class="accent">2025 Special Program for Doctoral Students</span> under the <span class="accent">CSCS Young Science and Technology Talent Cultivation Project</span>.
 
 ## 📝 Publications
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Zijing Zhang, Guoqing Chen, and Liang Zhang.  
-*DGSM-Net: Doppler-Guided Completion and Statistical Matching for 4D Radar Odometry.* [Code](https://github.com/Zhuanglong2/DGSM-Net)<br>
-<i>IEEE Transactions on Industrial Informatics</i>, 2026.
+<p class="publications-intro">Selected publications in radar perception, multimodal calibration, and autonomous navigation.</p>
 
+<div class="publications-list">
+<article class="publication-entry publication-entry--featured">
+  <div class="publication-meta"><span class="publication-year">2026</span><span class="publication-venue">IEEE TII</span></div>
+  <h3 class="publication-title"><em>DGSM-Net: Doppler-Guided Completion and Statistical Matching for 4D Radar Odometry.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Yiqing Yao*, Zijing Zhang, Guoqing Chen, and Liang Zhang.</p>
+  <p class="publication-links"><a href="https://github.com/Zhuanglong2/DGSM-Net">Code</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2026</span><span class="publication-venue">IEEE TIE</span></div>
+  <h3 class="publication-title"><em>RCPRNet: Robust 4D Radar-Camera Place Recognition.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Yiqing Yao*, and Tao Zhang.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/11534327">Paper</a><a href="https://github.com/Zhuanglong2/RCPRNet">Code</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2026</span><span class="publication-venue">IEEE TMM</span></div>
+  <h3 class="publication-title"><em>RCOC-Distill: Boosting 4D Radar-Camera Online Calibration with Knowledge Distillation from LiDAR Features.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Yiqing Yao*, and Tao Zhang.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/11432979">Paper</a><a href="https://github.com/Zhuanglong2/RCOC-Distill">Code</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2026</span><span class="publication-venue">IEEE TCSVT</span></div>
+  <h3 class="publication-title"><em>RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Yiqing Yao*, and Nuo Li.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/11112643">Paper</a><a href="https://github.com/Zhuanglong2/RC-ROSNet">Code</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2025</span><span class="publication-venue">IEEE RA-L</span></div>
+  <h3 class="publication-title"><em>4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Yiqing Yao*, Nuo Li, Zijian Wang, Lingtong Zhong, Zijing Zhang, and Tao Zhang.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/10950073">Paper</a><a href="https://github.com/Zhuanglong2/4DRC-OC">Code</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2025</span><span class="publication-venue">IEEE RA-L</span></div>
+  <h3 class="publication-title"><em>Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Yiqing Yao*, Taihong Yang, Zijian Wang, and Tao Zhang.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/11192687">Paper</a><a href="https://github.com/Zhuanglong2/Mamba-RODNet">Code</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2024</span><span class="publication-venue">IEEE TIV</span></div>
+  <h3 class="publication-title"><em>LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Tiezhen Jiang*, Hao Jiang, Anqi Wang, and Zhixiang Huang.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/10356738">Paper</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2024</span><span class="publication-venue">IEEE TIM</span></div>
+  <h3 class="publication-title"><em>A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Kai Luo, and Zhibo Yang*.</p>
+  <p class="publication-links"><span class="highlight-note">ESI Highly Cited Paper</span><a href="https://ieeexplore.ieee.org/document/10379118">Paper</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2024</span><span class="publication-venue">IEEE Sensors Journal</span></div>
+  <h3 class="publication-title"><em>Transformer Generates Conditional Convolution Kernels for End-to-End Lane Detection.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Tiezhen Jiang*, Meng Qiu, Anqi Wang, and Zhixiang Huang.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/10608068">Paper</a><a href="https://github.com/Zhuanglong2/Condformer">Code</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2024</span><span class="publication-venue">IEEE Sensors Journal</span></div>
+  <h3 class="publication-title"><em>Effective mmWave Radar Object Detection Pretraining Based on Masked Image Modeling.</em></h3>
+  <p class="publication-authors"><strong><u>Long Zhuang</u></strong>, Tiezhen Jiang*, Jianhua Wang, Qi An, Kai Xiao, and Anqi Wang.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/10353950">Paper</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2024</span><span class="publication-venue">Measurement Science and Technology</span></div>
+  <h3 class="publication-title"><em>CT-RURnet: a novel network design for radar unmanned aerial vehicles recognition.</em></h3>
+  <p class="publication-authors">Tiezhen Jiang, Qingzhu Li, Zhixiang Huang, and <strong><u>Long Zhuang*</u></strong>, et al.</p>
+  <p class="publication-links"><a href="https://iopscience.iop.org/article/10.1088/1361-6501/ada1ef">Paper</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2024</span><span class="publication-venue">Int. J. Microwave and Wireless Technologies</span></div>
+  <h3 class="publication-title"><em>Design of dual-band filtering patch antenna slot coupling feed.</em></h3>
+  <p class="publication-authors">Tiezhen Jiang, <strong><u>Long Zhuang*</u></strong>, Qi An, and Jianhua Wang.</p>
+  <p class="publication-links"><a href="https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/abs/design-of-dualband-filtering-patch-antenna-slot-coupling-feed/9588005D36E787CF1AEB3C0F640AEACD">Paper</a></p>
+</article>
+
+<article class="publication-entry">
+  <div class="publication-meta"><span class="publication-year">2023</span><span class="publication-venue">IEEE TIM</span></div>
+  <h3 class="publication-title"><em>T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.</em></h3>
+  <p class="publication-authors">Tiezhen Jiang, <strong><u>Long Zhuang*</u></strong>, Qi An, Jianhua Wang, Kai Xiao, and Anqi Wang.</p>
+  <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/9989400">Paper</a><a href="https://github.com/Zhuanglong2/T-RODNet">Code</a></p>
+</article>
+</div>
+
+{% comment %} Legacy Markdown publication list retained below for reference.
 ---
 
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
@@ -114,6 +206,8 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 *T-RODNet: Transformer for Vehicular Millimeter-Wave Radar Object Detection.* [Paper](https://ieeexplore.ieee.org/document/9989400) [Code](https://github.com/Zhuanglong2/T-RODNet)<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2023.
 
+
+{% endcomment %}
 
 ## 📖 Education
 
