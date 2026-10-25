@@ -44,7 +44,7 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.
 *RCPRNet: Robust 4D Radar-Camera Place Recognition.*  
 <i>IEEE Transactions on Industrial Electronics</i>, 2026.  
 
