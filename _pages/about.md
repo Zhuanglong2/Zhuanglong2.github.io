@@ -39,7 +39,7 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 
 ## 📝 Publications
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao*, Zijing Zhang, Guoqing Chen, and Liang Zhang.<br>
-*DGSM-Net: Doppler-Guided Completion and Statistical Matching for 4D Radar Odometry.* <span class="highlight-note">⭐ Provisionally accepted</span> [Code](https://github.com/Zhuanglong2/DGSM-Net)<br>
+*DGSM-Net: Doppler-Guided Completion and Statistical Matching for 4D Radar Odometry.* [Code](https://github.com/Zhuanglong2/DGSM-Net)<br>
 <i>IEEE Transactions on Industrial Informatics</i>, 2026.
 
 ---
