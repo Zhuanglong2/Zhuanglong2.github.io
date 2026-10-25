@@ -31,7 +31,7 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 
 ## 🔥 News
 
-- **2026-10-24**: 🎉 Our paper <a href="https://github.com/Zhuanglong2/DGSM-Net" class="accent-link">DGSM-Net</a>, *Doppler-Guided Completion and Statistical Matching for 4D Radar Odometry*, has been provisionally accepted for publication in <span class="accent">IEEE TII</span>. [Code](https://github.com/Zhuanglong2/DGSM-Net)
+- **2026-10-24**: 🎉 Our paper <a href="https://github.com/Zhuanglong2/DGSM-Net" class="accent-link">DGSM-Net</a> is published in <span class="accent">IEEE TII</span>. [Code](https://github.com/Zhuanglong2/DGSM-Net)
 - **2026-09-15**: Joined the research group of <span class="accent">Assoc. Prof. Bihan Wen</span> at <span class="accent">Nanyang Technological University (NTU), Singapore</span> as a visiting joint Ph.D. student, supported by the <span class="accent">China Scholarship Council (CSC)</span>. The research visit is scheduled from <span class="accent">Sep. 2026 to Aug. 2027</span>.
 - **2026-05-24**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11534327" class="accent-link">RCPRNet</a> is published in <span class="accent">IEEE TIE</span>. [Paper](https://ieeexplore.ieee.org/document/11534327) [Code](https://github.com/Zhuanglong2/RCPRNet)
 - **2026-03-19**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11432979" class="accent-link">RCOC-Distill</a> is published in <span class="accent">IEEE TMM</span>. [Paper](https://ieeexplore.ieee.org/document/11432979) [Code](https://github.com/Zhuanglong2/RCOC-Distill)
