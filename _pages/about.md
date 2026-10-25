@@ -38,13 +38,13 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 - **2025-12-15**: Selected for the <span class="accent">2025 Special Program for Doctoral Students</span> under the <span class="accent">CSCS Young Science and Technology Talent Cultivation Project</span>.
 
 ## 📝 Publications
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao*, Zijing Zhang, Guoqing Chen, and Liang Zhang.
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao*, Zijing Zhang, Guoqing Chen, and Liang Zhang.  
 *DGSM-Net: Doppler-Guided Completion and Statistical Matching for 4D Radar Odometry.* [Code](https://github.com/Zhuanglong2/DGSM-Net)<br>
 <i>IEEE Transactions on Industrial Informatics</i>, 2026.
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
 *RCPRNet: Robust 4D Radar-Camera Place Recognition.*  
 <i>IEEE Transactions on Industrial Electronics</i>, 2026.  
 
