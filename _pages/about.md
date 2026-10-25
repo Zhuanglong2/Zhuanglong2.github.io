@@ -31,12 +31,19 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 
 ## 🔥 News
 
+- **2026-10-24**: 🎉 Our paper <a href="https://github.com/Zhuanglong2/DGSM-Net" class="accent-link">DGSM-Net</a>, *Doppler-Guided Completion and Statistical Matching for 4D Radar Odometry*, has been provisionally accepted for publication in <span class="accent">IEEE Transactions on Industrial Informatics (TII)</span>. [Code](https://github.com/Zhuanglong2/DGSM-Net)
 - **2026-09-15**: Joined the research group of <span class="accent">Assoc. Prof. Bihan Wen</span> at <span class="accent">Nanyang Technological University (NTU), Singapore</span> as a visiting joint Ph.D. student, supported by the <span class="accent">China Scholarship Council (CSC)</span>. The research visit is scheduled from <span class="accent">Sep. 2026 to Aug. 2027</span>.
 - **2026-05-24**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11534327" class="accent-link">RCPRNet</a> is published in <span class="accent">TIE</span>. [Paper](https://ieeexplore.ieee.org/document/11534327) [Code](https://github.com/Zhuanglong2/RCPRNet)
 - **2026-03-19**: 🎉 Our paper <a href="https://ieeexplore.ieee.org/document/11432979" class="accent-link">RCOC-Distill</a> is published in <span class="accent">TMM</span>. [Paper](https://ieeexplore.ieee.org/document/11432979) [Code](https://github.com/Zhuanglong2/RCOC-Distill)
 - **2025-12-15**: Selected for the <span class="accent">2025 Special Program for Doctoral Students</span> under the <span class="accent">CSCS Young Science and Technology Talent Cultivation Project</span>.
 
 ## 📝 Publications
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao*, Zijing Zhang, Guoqing Chen, and Liang Zhang.<br>
+*DGSM-Net: Doppler-Guided Completion and Statistical Matching for 4D Radar Odometry.* <span class="highlight-note">⭐ Provisionally accepted</span> [Code](https://github.com/Zhuanglong2/DGSM-Net)<br>
+<i>IEEE Transactions on Industrial Informatics</i>, 2026.
+
+---
+
 🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, and Tao Zhang.  
 *RCPRNet: Robust 4D Radar-Camera Place Recognition.*  
 <i>IEEE Transactions on Industrial Electronics</i>, 2026.  
