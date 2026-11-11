@@ -17,7 +17,7 @@ redirect_from:
 
 ## 😄 About Me
 
-I am a Ph.D. candidate in Instrument Science and Technology at <span class="accent">Southeast University (SEU)</span>, advised by Associate Professor <span class="accent">Yiqing Yao</span>.
+I am a Ph.D. candidate in Instrument Science and Technology at <span class="accent">Southeast University (SEU)</span>, advised by Professor <span class="accent">Yiqing Yao</span>.
 
 Since Sep. 2026, I have been a visiting joint Ph.D. student in the <span class="accent">School of Electrical and Electronic Engineering (EEE)</span> at <span class="accent">Nanyang Technological University (NTU), Singapore</span>, working with Associate Professor <a href="https://personal.ntu.edu.sg/bihan.wen/" class="accent-link">Bihan Wen</a>, supported by the <span class="accent">China Scholarship Council (CSC)</span>. My research visit at NTU runs from Sep. 2026 to Aug. 2027.
 
@@ -62,18 +62,6 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 
 ---
 
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Nuo Li, Zijian Wang, Lingtong Zhong, Zijing Zhang, and Tao Zhang.  
-*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.* [Paper](https://ieeexplore.ieee.org/document/10950073) [Code](https://github.com/Zhuanglong2/4DRC-OC)<br>
-<i>IEEE Robotics and Automation Letters</i>, 2025.  
-
----
-
-🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.  
-*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.* [Paper](https://ieeexplore.ieee.org/document/11192687) [Code](https://github.com/Zhuanglong2/Mamba-RODNet)<br>
-<i>IEEE Robotics and Automation Letters</i>, 2025.  
-
----
-
 🔹 **<u>Long Zhuang</u>**, Tiezhen Jiang\*, Hao Jiang, Anqi Wang, and Zhixiang Huang.<br>
 *LQCANet: Learnable-Query-Guided Multi-Scale Fusion Network Based on Cross-Attention for Radar Semantic Segmentation.* [Paper](https://ieeexplore.ieee.org/document/10356738)<br>
 <i>IEEE Transactions on Intelligent Vehicles</i>, 2024.
@@ -83,6 +71,18 @@ My research interests lie in <span class="accent">millimeter-wave radar-based mu
 🔹 **<u>Long Zhuang</u>**, Kai Luo, and Zhibo Yang\*.<br>
 *A Multimodal Gated Recurrent Unit Neural Network Model for Damage Assessment in CFRP Composites Based on Lamb Waves and Minimal Sensing.* <span class="highlight-note">⭐ (ESI Highly Cited Paper)</span> [Paper](https://ieeexplore.ieee.org/document/10379118)<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024.
+
+---
+
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Nuo Li, Zijian Wang, Lingtong Zhong, Zijing Zhang, and Tao Zhang.  
+*4DRC-OC: Online Calibration of 4D Millimeter Wave Radar-Camera With Depth Map Assistance.* [Paper](https://ieeexplore.ieee.org/document/10950073) [Code](https://github.com/Zhuanglong2/4DRC-OC)<br>
+<i>IEEE Robotics and Automation Letters</i>, 2025.  
+
+---
+
+🔹 **<u>Long Zhuang</u>**, Yiqing Yao\*, Taihong Yang, Zijian Wang, and Tao Zhang.  
+*Boosting FMCW Radar Heat Map Object Detection with Raw ADC Data.* [Paper](https://ieeexplore.ieee.org/document/11192687) [Code](https://github.com/Zhuanglong2/Mamba-RODNet)<br>
+<i>IEEE Robotics and Automation Letters</i>, 2025.  
 
 ---
 
